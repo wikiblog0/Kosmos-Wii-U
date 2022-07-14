@@ -21,7 +21,10 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 ## Observaciones
 *En este paquete no estaran los archivos de Tiramisu u otro programa de liberacion, ya que aun hay usuarios de Wii U que no se han migrado a Tiramisu y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con todos los CFW de Wii U.
 Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de aplicaciones que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".
+
 *Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de homebrew launcher con la aplicacion Wup Installer GX y pueden instalarlo tanto en la Nand como en el disco duro/USB.
+
+*La version de NUSspli incluida en el paquete es la 1.58 por considerarla la mas estable. Tambien hay que destacar que para los otros exploits como indexiine, haxchi,etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
