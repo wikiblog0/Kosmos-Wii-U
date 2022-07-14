@@ -1,7 +1,7 @@
 Paquete todo en uno de aplicaciones homebrew de Wii U.
 
 ## Como Usarlo
-Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, decomprima el paquete .zip y los archivos que aparezcan paselos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
+Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, descomprima el paquete .zip y los archivos que aparezcan paselos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
 
 ## Aplicaciones Incluidas en el paquete.
 * [ftpiiu everywhere](https://github.com/wiiu-controller-mods/ftpiiu-everywhere)
@@ -9,9 +9,9 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
 * [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher)
 * [NUSspli](https://github.com/V10lator/NUSspli)
-* [vWii Deccafenaitor](https://github.com/GaryOderNichts/vWii-Decaffeinator)
+* [vWii Decaffenaitor](https://github.com/GaryOderNichts/vWii-Decaffeinator)
 * [NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper)
-* [SaveMii](https://github.com/Xpl0itU/savemii)
+* [SaveMii Mod Wut Port](https://github.com/Xpl0itU/savemii)
 * [Bloopair](https://github.com/GaryOderNichts/Bloopair)
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/)
 
