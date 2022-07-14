@@ -15,9 +15,13 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Bloopair](https://github.com/GaryOderNichts/Bloopair)
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/)
 
+## Canales Incluidos en el paquete.
+* [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases)
+
 ## Observaciones
 *En este paquete no estaran los archivos de Tiramisu u otro programa de liberacion, ya que aun hay usuarios de Wii U que no se han migrado a Tiramisu y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con todos los CFW de Wii U.
 Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de aplicaciones que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".
+*Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de homebrew launcher con la aplicacion Wup Installer GX y pueden instalarlo tanto en la Nand como en el disco duro/USB.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
