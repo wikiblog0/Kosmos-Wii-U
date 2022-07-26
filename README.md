@@ -30,7 +30,7 @@ Para aquellas personas que tengan problemas para poner el paquete en la tarjeta 
 
 *La version de NUSspli incluida en el paquete es la 1.58 por considerarla la mas estable. Tambien hay que destacar que para los otros exploits como indexiine, haxchi,etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu.
 
-*Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en el paquete, pueden darle click al nombre de las aplicaciones que se encuntran en la seccion "aplicaciones en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
+*Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en el paquete, pueden darle click al nombre de las aplicaciones que se encuntran en la seccion "aplicaciones incluidas en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
