@@ -13,7 +13,11 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper)
 * [SaveMii Mod Wut Port](https://github.com/Xpl0itU/savemii)
 * [Bloopair](https://github.com/GaryOderNichts/Bloopair)
-* [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/)
+* [WUP Installer GX2](https://github.com/wiiu-controller-mods/wup-installer-gx2)
+* [Disc2App](https://github.com/Xpl0itU/disc2app)
+* [WiiU-Shell](https://github.com/kenny1983/WiiU-Shell)
+* [UFDiine](https://github.com/GaryOderNichts/UFDiine)
+* [fixyourstick](https://github.com/Xpl0itU/fixyoustick)
 
 ## Canales Incluidos en el paquete.
 * [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases)
@@ -26,6 +30,8 @@ Para aquellas personas que tengan problemas para poner el paquete en la tarjeta 
 
 *La version de NUSspli incluida en el paquete es la 1.58 por considerarla la mas estable. Tambien hay que destacar que para los otros exploits como indexiine, haxchi,etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu.
 
+*Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en el paquete, pueden darle click al nombre de las aplicaciones que se encuntran en la seccion "aplicaciones en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
+
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
 *Tambien dejo la guia oficial inglesa de liberacion/modificacion de Wii U para aquellos usuarios de habla inglesa nativa: https://wiiu.hacks.guide/#/
@@ -33,4 +39,6 @@ Para aquellas personas que tengan problemas para poner el paquete en la tarjeta 
 ## Para los Nuevos Programadores
 Para los usuarios de Wii U o emulador CEMU que tengan conocimiento en programacion y quieren entrar al mundo de desarrollo de aplicaciones o emuladores homebrew de Wii U, les dejo el link a la guia de programacion de Yawt donde se explica al detalle como comenzar a programar y lo que se necesita. Link: https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
 
-Por ultimo, les dejo el blog de Clownacy donde explica de manera general como hacer ports de aplicaciones o juegos android a Wii U. Link: https://clownacy.wordpress.com/2021/02/12/porting-sonic-cd-2011-to-the-wii-u/
+Tambien les dejo el blog de Clownacy donde explica de manera general como hacer ports de aplicaciones o juegos android a Wii U. Link: https://clownacy.wordpress.com/2021/02/12/porting-sonic-cd-2011-to-the-wii-u/
+
+Por ultimo, para aquellas personas que quieran hacer ports de juegos hechos con pixealart como [Celeste Classic 2](https://github.com/ExOK/Celeste2) pueden usar la herramienta [GB Studio](https://github.com/chrismaltby/gb-studio) que permite crear o editar juegos en formato gb,gbc y gba para que puedan ser ejecutados en emuladores, Virtual Console de Wii U o si tienen los recursos a traves de inyectar el juego en un cartucho y ejecutarlos en la consola.
