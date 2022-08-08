@@ -1,3 +1,0 @@
-b=sysmenu
-a=haxchi/homebrew_launcher.elf
-default=wiiu/apps/mocha/mocha.elf
