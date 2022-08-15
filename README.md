@@ -36,7 +36,7 @@ Para aquellas personas que tengan problemas para poner el paquete en la tarjeta 
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
 *Tambien dejo la guia oficial inglesa de liberacion/modificacion de Wii U para aquellos usuarios de habla inglesa nativa: https://wiiu.hacks.guide/#/
 
-## Para los Nuevos Programadores
+# Para los Nuevos Programadores
 Para los usuarios de Wii U o emulador CEMU que tengan conocimiento en programacion y quieren entrar al mundo de desarrollo de aplicaciones o emuladores homebrew de Wii U, les dejo el link a la guia de programacion de Yawt donde se explica al detalle como comenzar a programar y lo que se necesita. Link: https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
 
 Les dejo el blog de Clownacy donde explica de manera general como hacer ports de aplicaciones o juegos android a Wii U. Link: https://clownacy.wordpress.com/2021/02/12/porting-sonic-cd-2011-to-the-wii-u/
