@@ -1,7 +1,7 @@
 Paquete todo en uno de aplicaciones homebrew de Wii U.
 
 ## Como Usarlo
-Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, descomprima el paquete .zip y los archivos que aparezcan paselos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
+Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, descomprima el paquete .zip, aparecera una carpeta llamada Kosmos, el contenido dentro de la carpeta Kosmos paselos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
 
 ## Aplicaciones Incluidas en el paquete.
 * [WiiU FTP Server](https://github.com/Laf111/WiiUFtpServer)
@@ -28,23 +28,24 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/files/)
 
 ## Observaciones
-*En este paquete no estaran los archivos de Tiramisu u otro programa de liberacion, ya que aun hay usuarios de Wii U que no se han migrado a Tiramisu o Aroma y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con todos los CFW de Wii U.
+* En este paquete no estaran los archivos de Tiramisu u otro programa de liberacion, ya que aun hay usuarios de Wii U que no se han migrado a Tiramisu o Aroma y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con todos los CFW de Wii U.
 
-*Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de aplicaciones que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".
+* Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de aplicaciones que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".
 
-*Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de homebrew launcher y el de Wup Installer GX2 con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB.
+* Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de homebrew launcher y el de Wup Installer GX2 con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB.
 
-*La version de NUSspli incluida en el paquete es la 1.58 por considerarla la mas estable. Tambien hay que destacar que para los otros exploits como indexiine, haxchi,etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu.
+* La version de NUSspli incluida en el paquete es la 1.58 por considerarla la mas estable. Tambien hay que destacar que para los otros exploits como indexiine, haxchi,etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu.
 
-*Destacar que la aplicacion Dumpling y save mii mod no estan en su ultima version, ya que las ultimas versiones de estas aplicaciones solo son compatibles con Tiramisu o Aroma, por lo que se usa una version compatible con todos los CFW.
+* Destacar que la aplicacion Dumpling y save mii mod no estan en su ultima version, ya que las ultimas versiones de estas aplicaciones solo son compatibles con Tiramisu o Aroma, por lo que se usa una version compatible con todos los CFW.
 
-*En caso de los usuarios que se quieran pasar a Aroma, tienen que tener en cuenta que las aplicaciones homebrew .elf no son compatibles con Aroma, por lo que si quiere seguir instalando juegos despues de pasarse a Aroma tienen que tener instalado el canal de Wup Installer GX2, ya que la aplicacion que se ejecuta por homebrew launcher es .elf y como mencione, ese tipo de archivo ejecutable no son compatibles con Aroma.
+* En caso de los usuarios que se quieran pasar a Aroma, tienen que tener en cuenta que las aplicaciones homebrew .elf no son compatibles con Aroma, por lo que si quiere seguir instalando juegos despues de pasarse a Aroma tienen que tener instalado el canal de Wup Installer GX2, ya que la aplicacion que se ejecuta por homebrew launcher es .elf y como mencione, ese tipo de archivo ejecutable no son compatibles con Aroma.
 
-*Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en el paquete, pueden darle click al nombre de las aplicaciones que se encuntran en la seccion "aplicaciones incluidas en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
+* Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en el paquete, pueden darle click al nombre de las aplicaciones que se encuntran en la seccion "aplicaciones incluidas en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
-*Tambien dejo la guia oficial inglesa de liberacion/modificacion de Wii U para aquellos usuarios de habla inglesa nativa: https://wiiu.hacks.guide/#/
+
+* Tambien dejo la guia oficial inglesa de liberacion/modificacion de Wii U para aquellos usuarios de habla inglesa nativa: https://wiiu.hacks.guide/#/
 
 # Para los Nuevos Programadores
 Para los usuarios de Wii U o emulador CEMU que tengan conocimiento en programacion y quieren entrar al mundo de desarrollo de aplicaciones o emuladores homebrew de Wii U, les dejo el link a la guia de programacion de Yawt donde se explica al detalle como comenzar a programar y lo que se necesita. Link: https://github.com/yawut/ProgrammingOnTheU/blob/master/tutorial/Chapter%201.md
