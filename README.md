@@ -15,7 +15,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [Bloopair](https://github.com/GaryOderNichts/Bloopair)
 * [WUP Installer GX2](https://github.com/wiiu-controller-mods/wup-installer-gx2)
 * [Disc2App](https://github.com/Xpl0itU/disc2app)
-* [WiiU-Shell](https://github.com/kenny1983/WiiU-Shell)
+* [WiiU-Shell](https://github.com/Xpl0itU/WiiU-Shell)
 * [UFDiine](https://github.com/GaryOderNichts/UFDiine)
 * [fixyourstick](https://github.com/Xpl0itU/fixyoustick)
 * [USBHide](https://github.com/Xpl0itU/USBHide)
