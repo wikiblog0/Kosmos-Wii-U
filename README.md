@@ -21,6 +21,10 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [USBHide](https://github.com/Xpl0itU/USBHide)
 * [WiiU Plugin System](https://github.com/Maschell/WiiUPluginLoader/releases)
 * [Dumpling](https://github.com/emiyl/dumpling)
+* [vWii Compact Installer](https://github.com/Xpl0itU/vwii-compat-installer/releases)
+* [Sign C2W Patcher](https://github.com/FIX94/sign_c2w_patcher/releases)
+* [MoonLight Wii U](https://github.com/GaryOderNichts/moonlight-wiiu/releases)
+
 
 
 ## Canales Incluidos en el paquete.
