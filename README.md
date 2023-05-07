@@ -1,16 +1,16 @@
 Paquete todo en uno de aplicaciones homebrew de Wii U.
 
 ## Como Usarlo
-Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Una vez descargado, descomprima el paquete .zip, aparecera una carpeta llamada Kosmos, el contenido dentro de la carpeta Kosmos paselos a la raiz de la tarjeta sd que esta utilizando para la Wii U.
+Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si tienes Tiramisu descarga el archivo Kosmos_Tiramisu.zip y si tienes Aroma descarga el archivo Kosmos_Aroma.zip. Descomprima el paquete .zip, aparecera varias carpetas y archivos, paselos a la raiz de la tarjeta sd que estas utilizando para la Wii U.
 
-## Aplicaciones Incluidas en el paquete.
-* [WiiU FTP Server](https://github.com/Laf111/WiiUFtpServer)
+## Aplicaciones Incluidas en el paquete de Tiramisu.                                                                  
+* [WiiU FTP Server](https://github.com/Laf111/WiiUFtpServer)                                                 
 * [HID to VPAD](https://github.com/wiiu-controller-mods/hid_to_vpad)
 * [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
 * [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher)
 * [NUSspli](https://github.com/V10lator/NUSspli)
 * [vWii Decaffenaitor](https://github.com/GaryOderNichts/vWii-Decaffeinator)
-* [NAND Dumper](https://github.com/koolkdev/wiiu-nanddumper)
+* [Ticket Cleaner](https://github.com/V10lator/Ticket_Cleaner)
 * [SaveMii Mod Wut Port](https://github.com/Xpl0itU/savemii)
 * [Bloopair](https://github.com/GaryOderNichts/Bloopair)
 * [WUP Installer GX2](https://github.com/wiiu-controller-mods/wup-installer-gx2)
@@ -19,32 +19,38 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Un
 * [UFDiine](https://github.com/GaryOderNichts/UFDiine)
 * [fixyourstick](https://github.com/Xpl0itU/fixyoustick)
 * [USBHide](https://github.com/Xpl0itU/USBHide)
-* [WiiU Plugin System](https://github.com/Maschell/WiiUPluginLoader/releases)
+* [WiiUIdent](https://github.com/GaryOderNichts/WiiUIdent)
 * [Dumpling](https://github.com/emiyl/dumpling)
 * [vWii Compact Installer](https://github.com/Xpl0itU/vwii-compat-installer/releases)
 * [Sign C2W Patcher](https://github.com/FIX94/sign_c2w_patcher/releases)
 * [MoonLight Wii U](https://github.com/GaryOderNichts/moonlight-wiiu/releases)
 
-
-
-## Canales Incluidos en el paquete.
-* [Homebrew Launcher Channel](https://github.com/GaryOderNichts/homebrew_launcher/releases)
+## Canales Incluidos en el paquete de Tiramisu.
+* [System Config Tool](https://archive.org/details/sysconfigtool)
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/files/)
 
+## Aplicaciones Incluidas en el paquete de Aroma.
+* [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
+* [Bloopair](https://github.com/GaryOderNichts/Bloopair)
+* [Dumpling](https://github.com/emiyl/dumpling)
+* [NUSspli](https://github.com/V10lator/NUSspli)
+* [NUSspli Lite](https://github.com/V10lator/NUSspli)
+* [WiiUIdent](https://github.com/GaryOderNichts/WiiUIdent)
+* [WiiU-Shell](https://github.com/Xpl0itU/WiiU-Shell)
+* [Aroma Updater](https://github.com/wiiu-env/AromaUpdater)
+
 ## Observaciones
-* En este paquete no estaran los archivos de Tiramisu u otro programa de liberacion, ya que aun hay usuarios de Wii U que no se han migrado a Tiramisu o Aroma y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con todos los CFW de Wii U.
+* En estos paquete estaran los archivos de Tiramisu y Aroma, por lo tanto si no han liberado la consola o no han actualizado los archivos de Tiramisu o Aroma pueden hacerlo con estos paquetes y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con Tiramisu o Aroma.
 
 * Para aquellas personas que tengan problemas para poner el paquete en la tarjeta de memoria o quieran hacer sugerencias de aplicaciones que quieran que pongan en el paquete lo pueden hacer en la seccion "issues".
 
-* Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de homebrew launcher y el de Wup Installer GX2 con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB.
+* Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de System Config Tool y el de Wup Installer GX2 con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB. Estos canales solo estan disponibles en el paquete de Tiramisu.
 
-* La version de NUSspli incluida en el paquete es la 1.58 por considerarla la mas estable. Tambien hay que destacar que para los otros exploits como indexiine, haxchi,etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu.
+* La version de NUSspli incluida en el paquete es la mas reciente. Tambien hay que destacar que para los otros exploits como indexiine, haxchi, etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu o Aroma.
 
-* Destacar que la aplicacion Dumpling y save mii mod no estan en su ultima version, ya que las ultimas versiones de estas aplicaciones solo son compatibles con Tiramisu o Aroma, por lo que se usa una version compatible con todos los CFW.
+* En caso de los usuarios que se quieran pasar a Aroma, tienen que tener en cuenta que las aplicaciones homebrew .elf no son compatibles con Aroma, por lo que si quiere seguir instalando juegos despues de pasarse a Aroma tienen que usar la aplicacion NUSspli Lite.
 
-* En caso de los usuarios que se quieran pasar a Aroma, tienen que tener en cuenta que las aplicaciones homebrew .elf no son compatibles con Aroma, por lo que si quiere seguir instalando juegos despues de pasarse a Aroma tienen que tener instalado el canal de Wup Installer GX2, ya que la aplicacion que se ejecuta por homebrew launcher es .elf y como mencione, ese tipo de archivo ejecutable no son compatibles con Aroma.
-
-* Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en el paquete, pueden darle click al nombre de las aplicaciones que se encuntran en la seccion "aplicaciones incluidas en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
+* Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en los paquetes, pueden darle click al nombre de las aplicaciones que se encuntran en la secciones que lleven parte del titulo "aplicaciones incluidas en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
 
 ## Para los Nuevos Usuarios
 * Para los nuevos usuarios de una Wii U que quieran liberar/modificar su Wii U, recomiendo visitar la "Guia de Piloncillo" en la cual estan las instrucciones a detalle de como liberar su Wii U a traves de Tiramisu. Link: https://piloncillo.github.io/
@@ -62,7 +68,7 @@ Tambien adjunto links de las herramientas y librerias necesarias para comenzar a
 - [pacman](https://github.com/devkitPro/pacman/releases) Libreria de devkitpro que descarga la sublibreria de devkitppc que va ser necesaria para hacer el port de 
 Wii U.
 - [Wii U Toolkit (WUT)](https://github.com/devkitPro/wut/releases) libreria para crear los ejecutables de las aplicaciones homebrew de Wii U rpx/rpl
-- [SDL](https://github.com/yawut/SDL/releases) port de la libreria sdl2 para su uso en homebrew de Wii U.
+- [SDL](https://github.com/GaryOderNichts/SDL) port de la libreria sdl2 para su uso en homebrew de Wii U.
 
 ## Posibles herramientas que se puedan ocupar en Wii U:
 - [gx2textureShader](https://github.com/rw-r-r-0644/gx2textureShader) es una simple aplicacion para renderizar graficos 2D en Wii U.
@@ -78,5 +84,4 @@ Wii U.
 - [RPXReader](https://github.com/phacoxcll/RPXReader)
 
 ## Otras alternativas para realizar ports de juegos en Wii U
-
 Por ultimo, para aquellas personas que quieran hacer ports de juegos hechos con pixealart como [Celeste Classic 2](https://github.com/ExOK/Celeste2) pueden usar la herramienta [GB Studio](https://github.com/chrismaltby/gb-studio) que permite crear o editar juegos en formato gb,gbc y gba para que puedan ser ejecutados en emuladores, Virtual Console de Wii U o si tienen los recursos a traves de inyectar el juego en un cartucho y ejecutarlos en la consola.
