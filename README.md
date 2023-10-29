@@ -24,10 +24,16 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [vWii Compact Installer](https://github.com/Xpl0itU/vwii-compat-installer/releases)
 * [Sign C2W Patcher](https://github.com/FIX94/sign_c2w_patcher/releases)
 * [MoonLight Wii U](https://github.com/GaryOderNichts/moonlight-wiiu/releases)
+* [WiiU Controller Test](https://github.com/Xpl0itU/WiiUControllerTest/releases)
+* [WiiU Screenshot Manager](https://github.com/Xpl0itU/WiiUScreenshotManager/releases)
+
+## Aplicaciones de Wii Incluidas en el paquete de Tiramisu. 
+[Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
 
 ## Canales Incluidos en el paquete de Tiramisu.
 * [System Config Tool](https://archive.org/details/sysconfigtool)
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/files/)
+* Canal Forwarder de la Homebrew Channel
 
 ## Aplicaciones Incluidas en el paquete de Aroma.
 * [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
@@ -38,7 +44,16 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [WiiUIdent](https://github.com/GaryOderNichts/WiiUIdent)
 * [WiiU-Shell](https://github.com/Xpl0itU/WiiU-Shell)
 * [Aroma Updater](https://github.com/wiiu-env/AromaUpdater)
+* [Theme Manager](https://github.com/Xpl0itU/theme-manager/actions/runs/5910984600)
+* [SaveMii Mod Wut Port](https://github.com/Xpl0itU/savemii)
+* [UFDiine](https://github.com/GaryOderNichts/UFDiine)
 
+## Aplicaciones de Wii Incluidas en el paquete de Aroma.
+ [Retroarch Wii Clean Edition](https://github.com/wikiblog0/Retroarch-Wii-Clean-Edition)
+
+ ## Canales Incluidos en el paquete de Aroma.
+* Canal Forwarder de Retroarch Wii.
+ 
 ## Observaciones
 * En estos paquete estaran los archivos de Tiramisu y Aroma, por lo tanto si no han liberado la consola o no han actualizado los archivos de Tiramisu o Aroma pueden hacerlo con estos paquetes y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con Tiramisu o Aroma.
 
