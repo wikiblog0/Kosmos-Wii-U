@@ -28,12 +28,13 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [WiiU Screenshot Manager](https://github.com/Xpl0itU/WiiUScreenshotManager/releases)
 
 ## Aplicaciones de Wii Incluidas en el paquete de Tiramisu. 
-[Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [vWii Homebrew Channel WAD](https://github.com/FIX94/hbc/releases)
 
 ## Canales Incluidos en el paquete de Tiramisu.
 * [System Config Tool](https://archive.org/details/sysconfigtool)
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/files/)
-* Canal Forwarder de la Homebrew Channel
+* [Canal Forwarder de la Homebrew Channel](https://drive.google.com/file/d/1aMoz8RD_YRsBN1cIE6SmSlvByI1b1lMp/view?usp=sharing)
 
 ## Aplicaciones Incluidas en el paquete de Aroma.
 * [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
@@ -52,7 +53,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
  [Retroarch Wii Clean Edition](https://github.com/wikiblog0/Retroarch-Wii-Clean-Edition)
 
  ## Canales Incluidos en el paquete de Aroma.
-* Canal Forwarder de Retroarch Wii.
+* [Canal Forwarder de Retroarch Wii](https://github.com/wikiblog0/Retroarch-Wii-Clean-Edition)
  
 ## Observaciones
 * En estos paquete estaran los archivos de Tiramisu y Aroma, por lo tanto si no han liberado la consola o no han actualizado los archivos de Tiramisu o Aroma pueden hacerlo con estos paquetes y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con Tiramisu o Aroma.
