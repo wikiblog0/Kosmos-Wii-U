@@ -62,6 +62,8 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 
 * Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de System Config Tool y el de Wup Installer GX2 con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB. Estos canales solo estan disponibles en el paquete de Tiramisu.
 
+* Para poder usar la gamepad en Retroarch Wii tienen que instalar el canal forwarder de Retroarch Wii en la Nand y al momento de ejecutar el canal forwarder les consultara si quieren usar la gamepad como control, seleccionen si.
+
 * La version de NUSspli incluida en el paquete es la mas reciente. Tambien hay que destacar que para los otros exploits como indexiine, haxchi, etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu o Aroma.
 
 * En caso de los usuarios que se quieran pasar a Aroma, tienen que tener en cuenta que las aplicaciones homebrew .elf no son compatibles con Aroma, por lo que si quiere seguir instalando juegos despues de pasarse a Aroma tienen que usar la aplicacion NUSspli Lite.
