@@ -8,7 +8,6 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [HID to VPAD](https://github.com/wiiu-controller-mods/hid_to_vpad)
 * [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
 * [Homebrew Launcher](https://github.com/dimok789/homebrew_launcher)
-* [NUSspli](https://github.com/V10lator/NUSspli)
 * [vWii Decaffenaitor](https://github.com/GaryOderNichts/vWii-Decaffeinator)
 * [Ticket Cleaner](https://github.com/V10lator/Ticket_Cleaner)
 * [SaveMii Mod Wut Port](https://github.com/Xpl0itU/savemii)
@@ -35,6 +34,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [System Config Tool](https://archive.org/details/sysconfigtool)
 * [WUP Installer GX2](https://sourceforge.net/projects/wup-installer-gx2/files/)
 * [Canal Forwarder de la Homebrew Channel](https://drive.google.com/file/d/1aMoz8RD_YRsBN1cIE6SmSlvByI1b1lMp/view?usp=sharing)
+* [NUSspli](https://github.com/V10lator/NUSspli)
 
 ## Aplicaciones Incluidas en el paquete de Aroma.
 * [Homebrew App Store](https://github.com/fortheusers/hb-appstore)
@@ -49,13 +49,10 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [SaveMii Mod Wut Port](https://github.com/Xpl0itU/savemii)
 * [UFDiine](https://github.com/GaryOderNichts/UFDiine)
 * [MoonLight Wii U](https://github.com/GaryOderNichts/moonlight-wiiu/releases)
-  
-## Aplicaciones de Wii Incluidas en el paquete de Aroma.
- [Retroarch Wii Clean Edition](https://github.com/wikiblog0/Retroarch-Wii-Clean-Edition)
+* [Noods](https://github.com/Hydr8gon/NooDS/releases)
+* [Retroarch Aroma](https://gbatemp.net/threads/retroarch-wiiu-wip.447670/page-711)
 
- ## Canales Incluidos en el paquete de Aroma.
-* [Canal Forwarder de Retroarch Wii](https://github.com/wikiblog0/Retroarch-Wii-Clean-Edition)
- 
+  
 ## Observaciones
 * En estos paquete estaran los archivos de Tiramisu y Aroma, por lo tanto si no han liberado la consola o no han actualizado los archivos de Tiramisu o Aroma pueden hacerlo con estos paquetes y por lo tanto este paquete subira las versiones de las aplicaciones que sean compatibles con Tiramisu o Aroma.
 
@@ -63,11 +60,17 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 
 * Una vez que hayan pasado los archivos del paquete a la memoria sd pueden instalar el canal de System Config Tool y el de Wup Installer GX2 con la aplicacion Wup Installer GX2 que se lanza desde el homebrew launcher y pueden instalarlo tanto en la Nand como en el disco duro/USB. Estos canales solo estan disponibles en el paquete de Tiramisu.
 
-* Para poder usar la gamepad en Retroarch Wii tienen que instalar el canal forwarder de Retroarch Wii en la Nand y al momento de ejecutar el canal forwarder les consultara si quieren usar la gamepad como control, seleccionen si.
+* Como algunos sabran, a partir de de la version 1.148 de NUSspli se dejo de dar soporte a la version .rpx de NUSspli, siendo el unico formato compatible con Tiramisu, el formato canal, por lo tanto se tomo la decision de agregar dicha version para asi mantener actualizado NUSspli en Tiramisu.
 
 * La version de NUSspli incluida en el paquete es la mas reciente. Tambien hay que destacar que para los otros exploits como indexiine, haxchi, etc. la ultima version soportada por NUSspli es la 1.77, a partir de la 1.78 para arriba solo es para Tiramisu o Aroma.
 
 * En caso de los usuarios que se quieran pasar a Aroma, tienen que tener en cuenta que las aplicaciones homebrew .elf no son compatibles con Aroma, por lo que si quiere seguir instalando juegos despues de pasarse a Aroma tienen que usar la aplicacion NUSspli Lite.
+
+* Dentro del paquete de Kosmos Aroma, va incluido el plugin de inkay de pretendo, por lo que solo tendria que crear su usuario de pretendo para jugar en linea en su Wii U. Pueden usar la guia oficial de pretendo para guiarse de como jugar en linea en Wii U: https://pretendo.network/docs/install/wiiu
+Por ultimo, se ha agregado el modulo Splashscreen para que puedan poner la imagen que gustan al momento que la Wii U este en pantalla de carga. La imagen debe estar en 1280 x 720.
+
+* He dejado creado un directorio especfico donde poner las roms de las consolas que utilicen en Retroarch Aroma. El directorio es sd://retroarch/downloads. Si entran dentro
+de la carpeta downloads veran que hay varias carpetas con nombres de varias consolas, dentro de esas carpetas hay un archivo en blanco que les dice que roms de determinada consola tienen que poner.
 
 * Si desean visitar los repositorios oficiales de las aplicaciones que estan incluidas en los paquetes, pueden darle click al nombre de las aplicaciones que se encuntran en la secciones que lleven parte del titulo "aplicaciones incluidas en el paquete" que estan de color azul, asi podran conocer mas informacion acerca de la aplicacion y de las demas versiones que tiene la aplicacion.
 
