@@ -27,7 +27,7 @@ Ve a la seccion "release" para descargar la ultima actualizacion del paquete. Si
 * [WiiU Screenshot Manager](https://github.com/Xpl0itU/WiiUScreenshotManager/releases)
 
 ## Aplicaciones de Wii Incluidas en el paquete de Tiramisu. 
-* [Wii Mod Lite](https://github.com/RiiConnect24/Wii-Mod-Lite/releases)
+* [Wii Mod Lite](https://oscwii.org/library/app/WiiModLite)
 * [vWii Homebrew Channel WAD](https://github.com/FIX94/hbc/releases)
 
 ## Canales Incluidos en el paquete de Tiramisu.
