@@ -90,7 +90,7 @@ Tambien adjunto links de las herramientas y librerias necesarias para comenzar a
 - [pacman](https://github.com/devkitPro/pacman/releases) Libreria de devkitpro que descarga la sublibreria de devkitppc que va ser necesaria para hacer el port de 
 Wii U.
 - [Wii U Toolkit (WUT)](https://github.com/devkitPro/wut/releases) libreria para crear los ejecutables de las aplicaciones homebrew de Wii U rpx/rpl
-- [SDL](https://github.com/GaryOderNichts/SDL) port de la libreria sdl2 para su uso en homebrew de Wii U.
+- [SDL](https://github.com/devkitPro/SDL) port de la libreria sdl2 para su uso en homebrew de Wii U.
 
 ## Posibles herramientas que se puedan ocupar en Wii U:
 - [gx2textureShader](https://github.com/rw-r-r-0644/gx2textureShader) es una simple aplicacion para renderizar graficos 2D en Wii U.
